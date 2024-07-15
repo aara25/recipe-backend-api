@@ -1,6 +1,7 @@
 """
 Sample tests
 """
+#noqa
 from django.test import SimpleTestCase
 
 

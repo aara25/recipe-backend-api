@@ -1,7 +1,7 @@
 """
 Test custom Django management commands
 """
-#noqa
+# noqa
 from unittest.mock import patch
 
 from psycopg2 import OperationalError as Psycopg2Error
