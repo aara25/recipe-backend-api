@@ -7,6 +7,6 @@ def add(x,y): # noqa
     return x + y
 
 
-def sub(x,y): 
+def sub(x, y):
     """Subtract x and y and return result"""
     return x - y
