@@ -1,8 +1,8 @@
 """
 Sample tests
 """
-#noqa
-from django.test import SimpleTestCase
+
+from django.test import SimpleTestCase # noqa
 
 
 from app import calc

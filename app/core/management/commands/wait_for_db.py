@@ -1,8 +1,7 @@
 """
 Django command to wait for the database to be available
 """
-#noqa
-import time
+import time # noqa
 from psycopg2 import OperationalError as Psycopg2Error
 from django.db.utils import OperationalError
 from django.core.management.base import BaseCommand

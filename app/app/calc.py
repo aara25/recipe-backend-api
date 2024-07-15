@@ -1,8 +1,8 @@
 """
 Calculator functions
 """
-#noqa
-def add(x,y):
+
+def add(x,y): # noqa
     """Add x and y and return result"""
     return x + y
 
